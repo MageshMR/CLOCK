@@ -1,6 +1,7 @@
 # Digital-Clock
 # Digital Clock
-
+# Visit The Web page
+https://mageshmr.github.io/CLOCK/
 A simple and visually appealing Digital Clock created using HTML, CSS, and JavaScript.
 
 ---
